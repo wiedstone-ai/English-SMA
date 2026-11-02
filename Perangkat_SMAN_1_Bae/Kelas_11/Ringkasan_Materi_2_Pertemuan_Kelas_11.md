@@ -1,157 +1,152 @@
-# RINGKASAN MATERI PEMBELAJARAN BAHASA INGGRIS (2 PERTEMUAN)
-## KELAS XI (FASE F) - SEMESTER GASAL
+# MODUL MATERI BELAJAR SISWA (STUDENT HANDOUT)
+## BAHASA INGGRIS KELAS XI (FASE F) — SEMESTER GASAL
 ### SMA NEGERI 1 BAE KUDUS — TAHUN AJARAN 2025/2026
-**Rujukan Kurikulum:** Pemetaan Materi Esensial MGMP SMA Kabupaten Kudus 2025–2026 & Kepka BSKAP Kemendikdasmen No. 020/2026
+**Rujukan Kurikulum:** Pemetaan Materi Esensial MGMP SMA Kabupaten Kudus 2025–2026
 
 ---
 
-## 📌 IDENTITAS PERANGKAT
-- **Satuan Pendidikan:** SMA Negeri 1 Bae Kudus
-- **Mata Pelajaran:** Bahasa Inggris (Wajib)
-- **Fase / Kelas:** Fase F / Kelas XI
-- **Alokasi Waktu:** 2 Pertemuan (4 JP @ 45 Menit)
-- **Fokus Materi Esensial:**
-  - **Pertemuan 1:** *Narrative Text (Ethical Dilemmas & Contemporary Storytelling)*
-  - **Pertemuan 2:** *Analytical Exposition Text (Digital Literacy & Critical AI Ethics)*
+> **Nama Siswa:** ____________________________________  
+> **Kelas / No. Presensi:** XI-_____ / _____  
+> **Petunjuk Belajar Mandiri:** Pelajari ringkasan teoretis, unsur struktur teks, contoh model teranotasi, rumus tata bahasa, dan panduan pengucapan (*pronunciation*) sebelum mengerjakan latihan asesmen.
 
 ---
 
-# PERTEMUAN 1: NARRATIVE TEXT
-### *Analyzing Narrative Arcs and Moral Responsibility in Contemporary Tales*
+# PERTEMUAN 1: NARRATIVE TEXT (TEKS NARATIF & KISAH MORAL)
 
-### 1. Tujuan Pembelajaran (TP) & Indikator (KKTP)
-- **TP 11.W.1:** Peserta didik mampu menganalisis perkembangan karakter, mengidentifikasi alur konflik moral (*moral dilemma*), dan menyimpulkan nilai koda dalam teks naratif kontemporer maupun legenda nusantara yang direinterpretasi secara kritis.
-- **Indikator Ketercapaian (KKTP):**
-  1. Siswa mampu memetakan elemen naratif: *Orientation, Complication, Evaluation, Resolution, dan Coda*.
-  2. Siswa mampu mengidentifikasi penggunaan kalimat lampau (*Past Tenses*) dan kutipan langsung/tidak langsung (*Direct/Indirect Speech*).
-  3. Siswa mampu mengevaluasi motif psikologis dan pelajaran moral dari pilihan tokoh utama.
-
-### 2. Konsep Kunci Narrative Text
-| Aspek | Penjelasan Mendalam |
-| :--- | :--- |
-| **Social Function** | Menghibur, memikat perhatian pembaca (*to entertain/amuse*), serta menyampaikan refleksi filosofis, nilai moral, atau kritik sosial melalui kisah rangkaian peristiwa yang memuat konflik dan resolusi. |
-| **Generic Structure** | **1. Orientation:** Memperkenalkan tokoh utama (*characters*), latar waktu (*time*), dan latar tempat (*setting*).<br>**2. Complication:** Munculnya krisis atau masalah bertingkat yang dihadapi tokoh (konflik internal psikologis atau eksternal sosial/alam).<br>**3. Evaluation:** Titik perenungan atau eskalasi sebelum puncak klimaks.<br>**4. Resolution:** Penyelesaian atau jalan keluar dari konflik (bisa berupa *happy ending*, *tragic ending*, atau *open-ended reflection*).<br>**5. Coda (Moral Value):** Pesan moral atau pelajaran hidup yang dapat dipetik oleh pembaca. |
-| **Lexicogrammatical Features** | - **Past Tenses:** *Simple Past* (*retreated, discovered*), *Past Continuous* (*was wandering*), *Past Perfect* (*had neglected*).<br>- **Action Verbs:** *plunged, unsealed, confronted, whispered*.<br>- **Time Sequencers & Connectors:** *Meanwhile, initially, as soon as, in the dead of night*.<br>- **Direct & Indirect Speech:** Menghidupkan dinamika dialog antartokoh. |
+### 1. Definisi Teoretis & Fungsi Komunikatif
+- **Definisi:** Narrative Text adalah jenis teks cerita fiksi atau kisah lampau yang menyajikan rangkaian peristiwa kronologis dengan masalah/krisis (*Complication*) yang memuncak dan akhirnya menemukan penyelesaian (*Resolution*) untuk menghibur dan menyampaikan hikmah moral.
+- **Fungsi Sosial (*Social Function*):** *To entertain, amuse, and deal with actual or vicarious experiences in different ways.* Cerita naratif mengajak pembaca menyelami emosi dan pergulatan etika tokoh utama.
 
 ---
 
-### 3. Teks Otentik (Authentic Reading Text)
+### 2. Unsur-Unsur Struktur Teks (*Generic Structure & Text Elements*)
 
-> **Source:** Adapted from *Contemporary Indonesian Folktale & Literary Heritage Anthology (2025)*  
-> **Title:** *The Clockmaker’s Spring: A Parable of Hubris and Humility*  
-> **CEFR Level:** B1 / B1+  
-
-```text
-In the mist-shrouded foothills of Mount Muria during the late eighteenth century, there lived a master clockmaker named Ki Ageng Semito. Renowned across Central Java for constructing intricate bronze timepieces that ticked with astonishing precision, he grew increasingly arrogant. He firmly believed that human intellect could subjugate time itself, treating every second as a commodity and refusing hospitality to anyone who could not afford his exorbitant services.
-
-One stormy evening during the height of the monsoon, while Ki Ageng was putting the final touches to his masterwork—a mechanical clock adorned with golden gears and automated puppets—a frail, soaked traveler knocked upon his oaken door, begging for shelter and dry embers to warm her trembling grandchild. Ki Ageng furrowed his brow and retorted harshly, "My time is measured in gold, not wasted on penniless wanderers!" He slammed the door, oblivious to the ominous lightning that fractured the twilight sky.
-
-Moments later, a deafening tremor shook the workshop. A subterranean spring burst through the stone floor, directly beneath his golden mechanism. Terrified, Ki Ageng watched as the pristine waters rapidly engulfed his coveted tools and blueprints. Strangely, as the water submerged the great clock, its hands began spinning wildly in reverse. In that terrifying moment of realization, Ki Ageng understood that all his accumulated wealth and mechanical mastery were powerless against the unyielding forces of nature and moral compassion. Escaping empty-handed into the pouring rain, he found the weeping child and shared his dry cloak, weeping tears of genuine humility.
-```
-
----
-
-### 4. Bedah Struktur Teks (Text Decomposition)
-
-| Struktur Teks | Paragraf | Analisis Fungsi & Bukti Tekstual |
-| :--- | :---: | :--- |
-| **Orientation** | Paragraf 1 | Pengenalan tokoh (*Ki Ageng Semito, clockmaker*), latar (*foothills of Mount Muria, 18th century*), watak tokoh (*arrogant, materialistic, refuses hospitality*). |
-| **Complication** | Paragraf 2 | Terjadinya konflik moral ketika pengembara lansia miskin meminta perlindungan (*a frail, soaked traveler knocked*), namun diusir dengan angkuh (*My time is measured in gold*). |
-| **Resolution & Coda** | Paragraf 3 | Terjadinya musibah banjir mata air bawah tanah (*subterranean spring burst*), kehancuran harta mekanik, dan penyesalan mendalam Ki Ageng (*shared his dry cloak, weeping tears of humility*). |
-
----
-
-### 5. Fokus Tata Bahasa & Kosakata Kunci
-
-#### A. Past Narrative Tenses Breakdown
-- **Simple Past (Alur tindakan sekuensial):** *He **slammed** the door and **retreated**.*
-- **Past Perfect (Tindakan yang terjadi sebelum peristiwa lampau lain):** *He **had neglected** the sacred customs of hospitality.*
-- **Direct Speech Transformation:**
-  - Direct: *"My time is measured in gold," he retorted.*
-  - Indirect: *He retorted that his time was measured in gold.*
-
-#### B. Glosarium Kosakata Sastra (Literary Glossary)
-1. **Hubris** (*n.*) /ˈhjuːbrɪs/: Keangkuhan atau rasa percaya diri berlebihan yang berujung pada kejatuhan.
-2. **Subjugate** (*v.*) /ˈsʌbdʒʊɡeɪt/: Menundukkan, menguasai secara paksa.
-3. **Exorbitant** (*adj.*) /ɪɡˈzɔːbɪtənt/: Sangat mahal, melampaui batas wajar.
-4. **Oblivious** (*adj.*) /əˈblɪviəs/: Tidak menyadari keadaan sekitar.
-5. **Humility** (*n.*) /hjuːˈmɪləti/: Kerendahan hati.
-
----
----
-
-# PERTEMUAN 2: ANALYTICAL EXPOSITION TEXT
-### *Critical Thinking on AI Ethics and Digital Literacy*
-
-### 1. Tujuan Pembelajaran (TP) & Indikator (KKTP)
-- **TP 11.W.2:** Peserta didik mampu menganalisis fungsi sosial, struktur tesis-argumen-reiterasi, dan fitur kebahasaan eksposisi analitis mengenai urgensi etika digital dan kecerdasan buatan, serta membedakan antara fakta dan opini secara kritis.
-- **Indikator Ketercapaian (KKTP):**
-  1. Siswa mampu menemukan *Thesis Statement* dan merangkum argumen pendukung (*topic sentences*).
-  2. Siswa mampu mengidentifikasi penanda wacana kausalitas (*causal conjunctions*) dan kata kerja mental (*mental verbs*).
-  3. Siswa mampu memproduksi argumen analitis logis dengan bukti berbasis data.
-
-### 2. Konsep Kunci Analytical Exposition Text
-| Aspek | Penjelasan Mendalam |
-| :--- | :--- |
-| **Social Function** | Membujuk dan meyakinkan pembaca (*to persuade/convince the audience*) bahwa suatu isu, fenomena, atau topik yang dibahas adalah penting dan layak diperhatikan melalui serangkaian argumen rasional berbasis logika dan data. |
-| **Generic Structure** | **1. Thesis:** Memperkenalkan isu kontemporer dan menyatakan sudut pandang atau pendirian penulis (*writer’s stance/claim*).<br>**2. Arguments:** Rangkaian paragraf argumen pendukung. Setiap paragraf memuat *Point* (klaim utama) dan *Elaboration* (bukti empiris, fakta, data statistik, atau penalaran logis).<br>**3. Reiteration:** Penegasan kembali posisi tesis penulis (*restating the thesis*) dengan formulasi kata yang berbeda tanpa menyajikan saran tindakan mendesak (karena saran mendesak merupakan ranah Hortatory). |
-| **Lexicogrammatical Features** | - **Relational & Mental Verbs:** *believe, conclude, indicate, represent, deem*.<br>- **Causal & Contrastive Conjunctions:** *consequently, furthermore, therefore, on the contrary*.<br>- **Modal Adverbs of Certainty:** *evidently, indisputably, crucial, paramount*.<br>- **Formal Passive Voice:** *It is widely recognized that digital ethics must be institutionalized.* |
-
----
-
-### 3. Teks Otentik (Authentic Reading Text)
-
-> **Source:** Adapted from *The Global Educational Technology Review (2025)*  
-> **Title:** *Why Critical Digital Literacy Must Be Prioritized in Secondary Education*  
-> **CEFR Level:** B1+ / B2  
-
-```text
-The rapid proliferation of generative artificial intelligence and synthetic media has fundamentally transformed how young individuals consume, synthesize, and disseminate information. While these technological breakthroughs offer unprecedented learning conveniences, they simultaneously expose students to sophisticated misinformation, automated plagiarism, and deepfake content. Therefore, it is indisputable that integrating critical digital literacy into the high school curriculum is no longer merely optional, but an absolute educational imperative.
-
-Firstly, critical digital literacy equips adolescents with essential analytical scrutiny to evaluate the credibility of digital sources. In an era where algorithmic feeds prioritize sensationalism over factual veracity, uncritical consumers frequently mistake machine-generated hallucinations for verified truths. By understanding cross-referencing methodologies and source attribution, students can distinguish authentic academic consensus from commercially driven digital falsehoods.
-
-Secondly, institutionalizing digital literacy fosters intellectual integrity and ethical awareness in the contemporary classroom. When learners understand the profound differences between using AI as an exploratory brainstorming partner versus engaging in automated academic dishonesty, they develop authentic academic resilience. They realize that authentic problem-solving and critical cognition cannot be outsourced to a predictive neural network.
-
-In conclusion, secondary educational institutions must not perceive technological advancements in isolation from ethical reasoning. Enhancing students' capacity to critically deconstruct digital media ensures that young citizens emerge as discerning, responsible, and empowered digital navigators in an increasingly automated global society.
-```
-
----
-
-### 4. Bedah Struktur Teks (Text Decomposition)
-
-| Struktur Teks | Paragraf | Analisis Fungsi & Bukti Tekstual |
-| :--- | :---: | :--- |
-| **Thesis** | Paragraf 1 | Menegaskan pendirian (*stance*): *Integrating critical digital literacy into high school curriculum is an absolute educational imperative.* |
-| **Argument 1 (Point & Elaboration)** | Paragraf 2 | Point: Kemampuan evaluasi kredibilitas sumber informasi digital.<br>Elaboration: Menghindari disinformasi dan *hallucinations* AI dengan *cross-referencing methodologies*. |
-| **Argument 2 (Point & Elaboration)** | Paragraf 3 | Point: Menumbuhkan integritas akademik dan ketahanan berpikir (*cognitive resilience*).<br>Elaboration: Menolak *automated plagiarism*, menegaskan pentingnya nalar manusia asli. |
-| **Reiteration** | Paragraf 4 | Menegaskan kembali tesis: Institusi pendidikan harus memastikan siswa menjadi *discerning and responsible digital navigators*. |
-
----
-
-### 5. Fokus Tata Bahasa & Kosakata Kunci
-
-#### A. Pola Conjunctions & Connectors of Argumentation
-- **Enumeration (Urutan Argumen):** *Firstly, Secondly, Furthermore, Moreover, Finally.*
-- **Cause & Effect (Sebab-Akibat):** *Therefore, consequently, as a result, leading to.*
-- **Reinforcement (Penegasan):** *In conclusion, to sum up, from the arguments above.*
-
-#### B. Glosarium Kosakata Eksposisi (Expository Glossary)
-1. **Proliferation** (*n.*) /prəˌlɪfəˈreɪʃn/: Perkembangan atau penyebaran yang sangat pesat.
-2. **Veracity** (*n.*) /vəˈræsəti/: Keakuratan fakta, kebenaran sejati.
-3. **Hallucination** (*n.*, AI context): Output informasi keliru yang di-generate oleh model bahasa seolah-olah fakta.
-4. **Resilience** (*n.*) /rɪˈzɪliəns/: Ketahanan dan kemampuan beradaptasi secara kokoh.
-5. **Discerning** (*adj.*) /dɪˈsɜːnɪŋ/: Kritis, mampu membedakan hal yang baik/benar secara tajam.
-
----
-
-### 6. Matriks Perbandingan Komparatif (Narrative vs Analytical Exposition)
-
-| Fitur Pembeda | Narrative Text (Pertemuan 1) | Analytical Exposition (Pertemuan 2) |
+| Bagian Struktur | Fungsi & Unsur Utama | Cara / Tips Mengidentifikasi |
 | :--- | :--- | :--- |
-| **Tujuan Komunikatif** | Mengisahkan cerita, menghibur, dan memetik hikmah moral | Meyakinkan pembaca atas kebenaran suatu klaim/isu penting |
-| **Fokus Alur** | Urutan waktu (*Chronological sequence & Plot*) | Rantai penalaran logis (*Logical argumentation & Evidence*) |
-| **Struktur Teks** | *Orientation $\rightarrow$ Complication $\rightarrow$ Resolution $\rightarrow$ Coda* | *Thesis $\rightarrow$ Arguments (Point-Elab) $\rightarrow$ Reiteration* |
-| **Dominasi Waktu/Tenses** | *Past Tenses (Simple Past, Past Continuous)* | *Present Tense, Modal Auxiliaries, Causal Linkers* |
+| **1. Orientation**<br>*(Pengenalan)* | Memperkenalkan tokoh utama (*Who*), latar tempat (*Where*), latar waktu (*When*), dan watak dasar tokoh sebelum konflik bermula. | Terletak di paragraf pertama. Menjawab: Siapa tokohnya dan di mana kisahnya bermula? |
+| **2. Complication**<br>*(Krisis / Masalah)* | Rangkaian peristiwa ketika tokoh menghadapi masalah moral, godaan, atau benturan dengan alam/masyarakat hingga mencapai puncak klimaks. | Terletak di bagian tengah cerita. Ditandai munculnya ketegangan, dilema etika, dan pilihan sulit tokoh. |
+| **3. Resolution**<br>*(Penyelesaian)* | Bagian akhir ketika masalah terselesaikan, baik berakhir bahagia (*happy ending*), tragis (*sad ending*), atau perenungan mendalam. | Terletak di paragraf penutup. Menguraikan nasib akhir tokoh setelah krisis mereda. |
+| **4. Coda**<br>*(Pesan Moral)* | Pelajaran hidup atau nilai moral yang dapat dipetik oleh pembaca dari perjalanan hidup sang tokoh. | Bisa tersurat di akhir teks atau tersirat dari perubahan karakter tokoh. |
 
 ---
-*Dokumen Disusun oleh Guru Pengampu Bahasa Inggris SMA Negeri 1 Bae Kudus (2025/2026).*
+
+### 3. Contoh Teks yang Relevan (Model Text Teranotasi)
+**Judul:** *The Clockmaker’s Spring: A Parable of Hubris and Humility*  
+**Sumber:** *Contemporary Indonesian Folktale & Literary Heritage Anthology (CEFR Level B1/B1+)*
+
+| Struktur Teks | Teks Bacaan Otentik |
+| :--- | :--- |
+| **[PARAGRAF 1]<br>ORIENTATION**<br>*(Tokoh Ki Ageng Semito di lereng Muria, keahlian jam mekanik, watak angkuh & materialistis)* | In the mist-shrouded foothills of Mount Muria during the late eighteenth century, there lived a master clockmaker named Ki Ageng Semito. Renowned across Central Java for constructing intricate bronze timepieces that ticked with astonishing precision, he grew increasingly arrogant. He firmly believed that human intellect could subjugate time itself, treating every second as a commodity and refusing hospitality to anyone who could not afford his exorbitant services. |
+| **[PARAGRAF 2]<br>COMPLICATION**<br>*(Konflik moral: menolak pengembara lansia dan anak kecil yang basah kuyup di tengah badai)* | One stormy evening during the height of the monsoon, while Ki Ageng was putting the final touches to his masterwork—a mechanical clock adorned with golden gears and automated puppets—a frail, soaked traveler knocked upon his oaken door, begging for shelter and dry embers to warm her trembling grandchild. Ki Ageng furrowed his brow and retorted harshly, "My time is measured in gold, not wasted on penniless wanderers!" He slammed the door, oblivious to the ominous lightning that fractured the twilight sky. |
+| **[PARAGRAF 3]<br>RESOLUTION & CODA**<br>*(Banjir mata air bawah tanah, jam berputar balik, dan pertobatan Ki Ageng merengkuh kerendahan hati)* | Moments later, a deafening tremor shook the workshop. A subterranean spring burst through the stone floor, directly beneath his golden mechanism. Terrified, Ki Ageng watched as the pristine waters rapidly engulfed his coveted tools and blueprints. Strangely, as the water submerged the great clock, its hands began spinning wildly in reverse. In that terrifying moment of realization, Ki Ageng understood that all his accumulated wealth and mechanical mastery were powerless against the unyielding forces of nature and moral compassion. Escaping empty-handed into the pouring rain, he found the weeping child and shared his dry cloak, weeping tears of genuine humility. |
+
+---
+
+### 4. Grammar & Tata Bahasa Fokus (*Language Features*)
+
+#### A. Rangkaian Past Tenses (Alur Waktu Peristiwa Lampau)
+1. **Simple Past:** Menyatakan tindakan lampau berurutan.
+   - Pola: $\text{Subject} + \text{Verb-2}$ $\rightarrow$ *He **slammed** the door and **retreated**.*
+2. **Past Continuous:** Menyatakan latar peristiwa lampau yang sedang berlangsung ketika disela peristiwa lain.
+   - Pola: $\text{Subject} + \text{was / were} + \text{Verb-ing}$ $\rightarrow$ *While he **was putting** the final touches, a traveler **knocked**.*
+3. **Past Perfect:** Menyatakan peristiwa yang telah tuntas terjadi sebelum peristiwa lampau lainnya.
+   - Pola: $\text{Subject} + \text{had} + \text{Verb-3}$ $\rightarrow$ *He **had accumulated** immense wealth before tragedy struck.*
+
+#### B. Direct and Indirect Speech (Kalimat Langsung & Tak Langsung)
+- **Direct Speech:** Mengutip ucapan asli tokoh secara persis menggunakan tanda petik.
+  - *Ki Ageng retorted, "My time is measured in gold!"*
+- **Indirect Speech:** Melaporkan kembali ucapan tokoh dengan pergeseran waktu lampau (*backshift*).
+  - *Ki Ageng retorted **that his time was measured in gold**.*
+
+---
+
+### 5. Pronunciation Guide & Speaking Practice (Panduan Pengucapan)
+
+| Kata Kunci | Ejaan Fonetik (IPA) | Penekanan Suku Kata (*Stress*) | Makna Bahasa Indonesia |
+| :--- | :--- | :--- | :--- |
+| **Craftsman** | /ˈkrɑːftsmən/ | **KRAHFT**-sman | Pengrajin / ahli kriya |
+| **Subterranean** | /ˌsʌbtəˈreɪniən/ | sub-tuh-**RAY**-nee-uhn | Di bawah tanah / di perut bumi |
+| **Exorbitant** | /ɪɡˈzɔːbɪtənt/ | ig-**ZOR**-bi-tuhnt | Sangat mahal melampaui batas wajar |
+| **Subjugate** | /ˈsʌbdʒʊɡeɪt/ | **SUB**-joo-gayt | Menundukkan / menguasai paksa |
+| **Compassion** | /kəmˈpæʃn/ | kuhm-**PASH**-uhn | Rasa welas asih / belas kasih |
+| **Oblivious** | /əˈblɪviəs/ | uh-**BLIV**-ee-uhs | Lengah / tidak menyadari bahaya |
+| **Parable** | /ˈpærəbl/ | **PAR**-uh-bl | Kisah perumpamaan moral |
+| **Humility** | /hjuːˈmɪləti/ | hyoo-**MIL**-i-tee | Kerendahan hati |
+
+💡 **Tips Pelafalan Penting untuk Siswa:**
+1. **Kata Kerja Lampau Irregular:**
+   - *Shook* /ʃʊk/ (vokal pendek seperti pada kata *book*, jangan ucapkan panjang seperti *shoot*).
+   - *Burst* /bɜːst/ (vokal panjang tengah /ɜː/, bentuk V1, V2, dan V3-nya sama persis).
+2. **Intonasi Bercerita (*Narrative Delivery*):** Naikkan nada suara (*rising intonation*) pada momen ketegangan konflik (*Complication*), dan turunkan nada suara secara lembut (*falling intonation*) saat menyampaikan penyelesaian (*Resolution*) dan pesan moral (*Coda*).
+
+---
+---
+
+# PERTEMUAN 2: ANALYTICAL EXPOSITION (TEKS EKSPOSISI ANALITIS)
+
+### 1. Definisi Teoretis & Fungsi Komunikatif
+- **Definisi:** Analytical Exposition adalah teks argumentatif formal yang bertujuan meyakinkan pembaca (*to persuade the audience*) bahwa suatu ide, fenomena, atau isu yang diangkat adalah benar, penting, dan layak disikapi secara kritis melalui serangkaian argumen logis berbasis data.
+- **Fungsi Sosial (*Social Function*):** *To persuade the reader that the idea is an important matter.* Ciri khas mutlaknya: Diakhiri dengan **Reiteration** (penegasan kembali tesis), **BUKAN rekomendasi saran tindakan** (karena rekomendasi tindakan adalah ranah Hortatory Exposition).
+
+---
+
+### 2. Unsur-Unsur Struktur Teks (*Generic Structure & Text Elements*)
+
+| Bagian Struktur | Fungsi & Unsur Utama | Cara / Tips Mengidentifikasi |
+| :--- | :--- | :--- |
+| **1. Thesis**<br>*(Pernyataan Pendirian)* | Paragraf pembuka yang memperkenalkan topik krusial dan secara tegas menyatakan sudut pandang atau pendirian penulis (*author's stance/claim*). | Terletak di akhir paragraf pertama. Memuat klaim utama: *Therefore, it is indisputable that... is an absolute imperative.* |
+| **2. Series of Arguments**<br>*(Rangkaian Argumen)* | Rangkaian paragraf pendukung. Setiap paragraf memuat: **Point** (klaim ide pokok argumen) dan **Elaboration** (bukti data, alasan logis, fakta pendukung). | Diawali konjungsi urutan (*Firstly, Secondly, Furthermore*). Menjawab: Mengapa klaim tesis tersebut benar? |
+| **3. Reiteration**<br>*(Penegasan Kembali Tesis)* | Paragraf penutup yang menegaskan dan merangkum kembali posisi tesis utama penulis menggunakan parafrasa diksi yang berbeda tanpa mengubah makna. | Terletak di paragraf terakhir. Diawali frasa simpulan: *In conclusion,...*, *To sum up,...*, *From the arguments above,...* |
+
+---
+
+### 3. Contoh Teks yang Relevan (Model Text Teranotasi)
+**Judul:** *Why Critical Digital Literacy Must Be Prioritized in Secondary Education*  
+**Sumber:** *The Global Educational Technology Review (CEFR Level B1+/B2)*
+
+| Struktur Teks | Teks Bacaan Otentik |
+| :--- | :--- |
+| **[PARAGRAF 1]<br>THESIS**<br>*(Pengenalan isu AI generatif & klaim tesis keharusan literasi digital)* | The rapid proliferation of generative artificial intelligence and synthetic media has fundamentally transformed how young individuals consume, synthesize, and disseminate information. While these technological breakthroughs offer unprecedented learning conveniences, they simultaneously expose students to sophisticated misinformation, automated plagiarism, and deepfake content. Therefore, it is indisputable that integrating critical digital literacy into the high school curriculum is no longer merely optional, but an absolute educational imperative. |
+| **[PARAGRAF 2]<br>ARGUMENT 1**<br>*(Point: Validasi sumber; Elaboration: Mengatasi AI hallucinations dengan cek silang)* | Firstly, critical digital literacy equips adolescents with essential analytical scrutiny to evaluate the credibility of digital sources. In an era where algorithmic feeds prioritize sensationalism over factual veracity, uncritical consumers frequently mistake machine-generated hallucinations for verified truths. By understanding cross-referencing methodologies and source attribution, students can distinguish authentic academic consensus from commercially driven digital falsehoods. |
+| **[PARAGRAF 3]<br>ARGUMENT 2**<br>*(Point: Integritas akademik; Elaboration: Menolak plagiasi otomatis, nalar manusia asli)* | Secondly, institutionalizing digital literacy fosters intellectual integrity and ethical awareness in the contemporary classroom. When learners understand the profound differences between using AI as an exploratory brainstorming partner versus engaging in automated academic dishonesty, they develop authentic academic resilience. They realize that authentic problem-solving and critical cognition cannot be outsourced to a predictive neural network. |
+| **[PARAGRAF 4]<br>REITERATION**<br>*(Penegasan kembali tesis: Sekolah harus mencetak navigator digital yang cerdas dan bertanggung jawab)* | In conclusion, secondary educational institutions must not perceive technological advancements in isolation from ethical reasoning. Enhancing students' capacity to critically deconstruct digital media ensures that young citizens emerge as discerning, responsible, and empowered digital navigators in an increasingly automated global society. |
+
+---
+
+### 4. Grammar & Tata Bahasa Fokus (*Language Features*)
+
+#### A. Causal Conjunctions (Penanda Hubungan Kausalitas / Sebab-Akibat)
+- **Pola Sebab-Akibat:** $\text{Cause / Premis} + [\text{therefore / consequently / as a result}] + \text{Effect / Kesimpulan}$
+- **Contoh Kalimat:**
+  - *Algorithmic feeds prioritize sensationalism; **therefore**, critical digital literacy is an absolute imperative.*
+  - *Students outsourced their critical cognition; **consequently**, their autonomous problem-solving skills deteriorated.*
+
+#### B. Modal Adverbs of Certainty & Mental Verbs
+- **Modal Adverbs (Tingkat Kepastian):** *indisputably* (pasti/tak terbantahkan), *evidently* (jelas terbukti), *certainly*.
+  - *It is **indisputably** proven that digital literacy strengthens student integrity.*
+- **Mental Verbs (Kata Kerja Pikiran/Sikap):** *believe, conclude, recognize, assess*.
+  - *Scholars **conclude** that critical thinking requires manual intellectual exertion.*
+
+---
+
+### 5. Pronunciation Guide & Speaking Practice (Panduan Pengucapan)
+
+| Kata Kunci | Ejaan Fonetik (IPA) | Penekanan Suku Kata (*Stress*) | Makna Bahasa Indonesia |
+| :--- | :--- | :--- | :--- |
+| **Proliferation** | /prəˌlɪfəˈreɪʃn/ | pro-lif-er-**AY**-shun | Perkembangan pesat / lonjakan tajam |
+| **Veracity** | /vəˈræsəti/ | vuh-**RASS**-i-tee | Kebenaran fakta / keakuratan data |
+| **Hallucination** | /həˌluːsɪˈneɪʃn/ | huh-loo-si-**NAY**-shun | Output keliru AI yang dikira fakta |
+| **Imperative** | /ɪmˈperətɪv/ | im-**PEHR**-uh-tiv | Keharusan mutlak / hal yang wajib |
+| **Indisputable** | /ˌɪndɪˈspjuːtəbl/ | in-di-**SPYOO**-tuh-bl | Pasti benar / tak terbantahkan |
+| **Scrutiny** | /ˈskruːtəni/ | **SKROO**-ti-nee | Pemeriksaan cermat dan teliti |
+| **Resilience** | /rɪˈzɪliəns/ | ri-**ZIL**-yuhns | Ketahanan mental dan daya juang |
+| **Discerning** | /dɪˈsɜːnɪŋ/ | dih-**SURN**-ing | Kritis dan bijak membedakan hal benar |
+
+💡 **Tips Pelafalan Penting untuk Siswa:**
+1. **Aturan Penekanan Kata Berakhiran *-tion* dan *-ity*:**
+   - Kata berakhiran *-tion* selalu mendapat penekanan suara (*stress*) tepat pada **SUKU KATA SEBELUMNYA** (e.g., *pro-li-fe-**RA**-tion*, *hal-lu-ci-**NA**-tion*).
+   - Kata berakhiran *-ity* selalu mendapat stress pada **SUKU KATA KETIGA DARI BELAKANG** (e.g., *ve-**RASS**-i-ty*, *hu-**MIL**-i-ty*).
+2. Bunyi vokal pada kata *Discerning*: Ucapkan bunyi vokal /ɜː/ (panjang) seperti pada kata *bird* atau *learn*.
+
+---
+*SMA Negeri 1 Bae Kudus — Buku Saku Pembelajaran Bahasa Inggris Siswa (2025/2026).*
