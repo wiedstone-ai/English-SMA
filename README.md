@@ -7,17 +7,29 @@ Repositori ini memuat seluruh dokumen administrasi dan perangkat pembelajaran ma
 ## 📁 Struktur Repositori
 
 ```text
-English SMA/
+English-SMA/
 ├── 0-Peraturan (PDF)/               # Dokumen resmi regulasi, CP, dan panduan Kurikulum Merdeka
-├── 1-Capaian Pembelajaran/          # Deskripsi CP Fase E (Kelas X) dan Fase F (Kelas XI & XII)
-├── 2-Alur dan Tujuan Pembelajaran/  # ATP Bahasa Inggris SMA (Wajib & TL) dalam 1 Workbook Excel
-├── 3-Program Tahunan dan Prosem/   # Prota dan Prosem terpadu multi-worksheet Excel
-├── 4-Silabus/                       # Silabus lengkap dengan Constructive Alignment
-├── 5-Modul Ajar X SMA/              # Modul Ajar, Materi Otentik (CEFR A2+/B1) Kelas X
-├── 5-Modul Ajar XI SMA/             # Modul Ajar, Materi Otentik (CEFR B1/B1+) Kelas XI Wajib
-├── 5-Modul Ajar XI SMA TL/          # Modul Ajar, Materi Otentik (CEFR B1+/B2) Kelas XI TL
-├── 5-Modul Ajar XII SMA/            # Modul Ajar, LKPD, Asesmen & Materi Otentik Kelas XII Wajib
-└── 5-Modul Ajar XII SMA TL/         # Modul Ajar & Perangkat Kelas XII Tingkat Lanjut
+│
+├── Perangkat SMA Umum/              # Perangkat Pembelajaran SMA Nasional Umum
+│   ├── 1-Capaian Pembelajaran/      # CP Fase E & Fase F (Wajib & TL)
+│   ├── 2-Alur dan Tujuan Pembelajaran/ # ATP Bahasa Inggris SMA (Wajib & TL)
+│   ├── 3-Program Tahunan dan Program Semester/ # Prota & Prosem terpadu Excel
+│   ├── 4-Silabus/                   # Silabus lengkap & Pemetaan Materi Bahasa Inggris SMA
+│   ├── 5-Modul Ajar X SMA/          # Modul Ajar, Materi Otentik (CEFR A2+/B1) Kelas X
+│   ├── 5-Modul Ajar XI SMA/         # Modul Ajar, Materi Otentik (CEFR B1/B1+) Kelas XI Wajib
+│   ├── 5-Modul Ajar XI SMA TL/      # Modul Ajar, Materi Otentik (CEFR B1+/B2) Kelas XI TL
+│   ├── 5-Modul Ajar XII SMA/        # Modul Ajar, LKPD, Asesmen & Materi Otentik Kelas XII Wajib
+│   └── 5-Modul Ajar XII SMA TL/     # Modul Ajar, LKPD, Asesmen & Materi Otentik Kelas XII TL
+│
+└── Perangkat_SMAN_1_Bae/            # Perangkat Khusus Implementasi SMAN 1 Bae Kudus
+    ├── 0-CP-ATP-Prota-Promes-Silabus/ # Workbook Excel terpadu SMAN 1 Bae
+    ├── 0-Bahan Teks Otentik/        # Kumpulan teks otentik per kelas dan semester
+    │   ├── 1-Kelas_X_Fase_E/
+    │   ├── 2-Kelas_XI_Fase_F_Wajib/
+    │   ├── 3-Kelas_XI_Fase_F_Tingkat_Lanjut/
+    │   ├── 4-Kelas_XII_Fase_F_Wajib/
+    │   └── 5-Kelas_XII_Fase_F_Tingkat_Lanjut/
+    └── Materi Bahasa Inggris SMAN 1 Bae Kudus.jpg # Infografis pemetaan materi
 ```
 
 ---
